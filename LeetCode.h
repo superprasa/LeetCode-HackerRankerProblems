@@ -11,4 +11,5 @@ class Solution
 {
     protected:
      double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2);
+     int lengthOfLongestSubstring(string s);
 };
